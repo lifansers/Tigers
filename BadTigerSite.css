@@ -11,12 +11,12 @@ body {
   display: grid;
   grid-template-columns: 20% 50% 30%;
   background-color: #FF0000;
-  padding: 10px;
+  padding: 5px;
 }
 .grid-item {
   background-color: #FFFF00;
   border: 3px solid #FF0000;
-  padding: 10px;
+  padding: 5px;
 }
 
 .grid-container2 {
